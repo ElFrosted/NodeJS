@@ -1,2 +1,2 @@
 # NodeJS
- A little proyects to practice JS and Node.
+ A little proyects to practice NodeJS.
